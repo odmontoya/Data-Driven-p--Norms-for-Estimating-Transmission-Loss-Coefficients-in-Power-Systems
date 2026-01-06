@@ -1,6 +1,6 @@
-# A Convex SDP Approach for Estimating Transmission Loss Coefficients in Power Systems
+# Data-Driven $p$-Norms for Estimating Transmission Loss Coefficients in Power Systems
 
-This repository contains the implementation and data for the paper *"A Convex Semidefinite Programming Approach for Estimating Transmission Loss Coefficients in Power Systems under Random Demand Behavior"*.
+This repository contains the implementation and data for the paper *"Data-Driven $p$-Norms for Estimating Transmission Loss Coefficients in Power Systems"*.
 
 ## 🔍 Overview
 We introduce a novel convex, data-driven methodology for estimating transmission loss coefficients (\(B\)-coefficients) in power systems. A key contribution is the incorporation of stochastic demand behavior, which significantly improves estimation accuracy. The proposed model is formulated as a semidefinite programming (SDP) problem using general \(p\)-norm objective functions, ensuring physical consistency through convex constraints.
