@@ -1,0 +1,2 @@
+# Data-Driven-p--Norms-for-Estimating-Transmission-Loss-Coefficients-in-Power-Systems
+This repositorypresents a convex SDP framework for data-driven estimation of power system loss coefficients. Incorporating stochastic demand and physical constraints, the method is validated on IEEE test systems, achieving errors within ±6%. It provides a reliable, efficient tool for improved grid dispatch and planning.
